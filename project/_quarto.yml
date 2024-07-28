@@ -1,0 +1,61 @@
+project:
+  type: website
+
+  render:
+    - microbial_diversity_analysis.ipynb
+    - flights.ipynb
+
+execute: 
+  freeze: true  # We don't want to re-execute notebooks in every build
+
+website:
+  title: "Microbial Richness in the Troposphere"
+  favicon: assets/favicon.ico
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      
+      - text: Reports
+        menu:
+          - text: "Diversity analysis"
+            href: microbial_diversity_analysis.ipynb
+          - text: "Flights GPS"
+            href: flights.ipynb
+
+
+      - text: About
+        menu:
+          - text: "ISGlobal"
+            href: https://www.isglobal.org/en
+          - text: "Climate & Health Programme"
+          - text: "AIRLAB"
+            href: https://ginys.cerca.cat/en/facility/airlab/
+
+
+    right:
+      - icon: github
+        menu: 
+        - text: "GitHub Repository"
+          href: https://github.com/Airlabbcn/microbial-richness-troposphere
+        - text: "Raise an issue"
+          href: https://github.com/Airlabbcn/microbial-richness-troposphere/issues/new
+      - icon: envelope
+        href: mailto:alejandro.fontal.92@gmail.com
+        aria-label: Mail
+
+format:
+  html:
+    number-sections: true
+    highlight-style: github
+    theme:
+      light: litera
+    css: custom.css
+    toc: true
+    toc-title: "CONTENTS"
+    toc-location: right
+    code-tools:
+      source: true
+      toggle: true
+    code-summary: "Show Code"

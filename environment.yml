@@ -1,0 +1,13 @@
+name: micro-troposphere
+channels:
+  - defaults
+dependencies:
+  - scikit-bio
+  - geopandas
+  - numpy
+  - pandas
+  - plotnine
+  - scikit-learn
+  - scipy
+  - statsmodels
+prefix: /Users/alejandro/miniconda3/envs/micro-troposphere

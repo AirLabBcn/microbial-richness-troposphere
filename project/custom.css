@@ -1,0 +1,50 @@
+
+pre code {
+    font-size: 0.8em
+}
+
+.table {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+
+figcaption.figure-caption {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+summary {
+  font-size: 0.8em;
+  font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+body {
+  font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+header, h1, h2, h3, h4, h5, h6 {
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.lead {
+  font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.275rem;
+}
+
+.subtitle {
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.dataframe {
+  width: auto;
+  text-align: center;  
+}
+
+.table {
+  width: auto;
+}
+table tr:hover {
+  background: #D9EDFD;
+}
