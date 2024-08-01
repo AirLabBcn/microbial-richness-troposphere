@@ -31,7 +31,7 @@ jobs:
       uses: quarto-dev/quarto-actions/render@v2
       with:
         to: html
-        path: reports/
+        path: project/
     
     - name: Process HTML outputs for nicer site render
       run: curl -s -S https://gist.githubusercontent.com/AlFontal/233c9ad8afe27e68f23138fcacf2d767/raw > clean_notebook.py; 
