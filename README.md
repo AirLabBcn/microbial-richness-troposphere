@@ -18,3 +18,6 @@ conda env create -f environment.yml
 
 
 The different data sources can be found in the [`data`](/data/) folder. The code and script used to generate the analysis and figures can be found in the different `.ipynb` files in the [`project`](/project/) directory.
+
+
+The main notebook is [`project/microbial_diversity_analysis.ipynb`](/project/microbial_diversity_analysis.ipynb), with the code generating most of the analysis and figures of the manuscript. It is too large to be rendered on GitHub so either clone the repo and explore it locally or go to the Quarto render of the projects's notebooks hosted in the Github Pages of this repository [here](airlabbcn.github.io/microbial-richness-troposphere).
