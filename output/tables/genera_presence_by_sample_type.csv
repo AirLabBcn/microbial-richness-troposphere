@@ -1,0 +1,572 @@
+Kingdom,Phylum,Class,Order,Family,Genus,total_counts,Flight-February,Flight-April,Ground-February,Ground-April,month_presence,area_presence,presence_type
+Bacteria,Acidobacteriota,Acidobacteriae,Acidobacteriales,Acidobacteriaceae (Subgroup 1),Bryocella,47,37,10,0,0,Both months,Only Flight,Only Flight
+Bacteria,Acidobacteriota,Acidobacteriae,Acidobacteriales,Acidobacteriaceae (Subgroup 1),Granulicella,200,200,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Acidobacteriota,Acidobacteriae,Acidobacteriales,Acidobacteriaceae (Subgroup 1),Terriglobus,166,166,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Acidobacteriota,Blastocatellia,Blastocatellales,Blastocatellaceae,Blastocatella,9,9,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Acidobacteriota,Blastocatellia,Pyrinomonadales,Pyrinomonadaceae,RB41,26,0,26,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,378,60,192,6,120,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Actinomycetaceae,Mobiluncus,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,323,0,221,0,102,Only April,Both sites,Only April
+Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,4,0,0,4,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Scardovia,26,0,26,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,384,56,55,57,216,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Lawsonella,135,55,24,33,23,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Dietziaceae,Dietzia,104,15,0,21,68,Both months,Both sites,All except April-flight
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,334,112,0,210,12,Both months,Both sites,All except April-flight
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,379,24,71,20,264,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Williamsia,6,6,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Frankiaceae,Jatrophihabitans,32,23,0,9,0,Only February,Both sites,Only February
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Blastococcus,10,0,0,10,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Geodermatophilus,5,0,5,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Modestobacter,21,0,0,21,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Nakamurellaceae,Nakamurella,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Kineosporiales,Kineosporiaceae,Kineococcus,5,0,0,5,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,4,4,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Dermabacteraceae,Brachybacterium,4,0,0,0,4,Only April,Only Ground,Only April-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Marisediminicola,14,14,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Rhodoluna,8,0,0,0,8,Only April,Only Ground,Only April-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Subtercola,29,0,0,0,29,Only April,Only Ground,Only April-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,21,0,0,21,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Auritidibacter,35,0,0,0,35,Only April,Only Ground,Only April-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,51,0,13,38,0,Both months,Both sites,April-Flight and February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,41,0,0,41,0,Only February,Only Ground,Only February-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Renibacterium,225,213,0,0,12,Both months,Both sites,February-Flight and April-Ground
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Rothia,293,16,153,8,116,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,40,4,17,19,0,Both months,Both sites,All except April-flight
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,1795,507,245,412,631,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Friedmanniella,11,0,11,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Pseudonocardia,13,4,9,0,0,Both months,Only Flight,Only Flight
+Bacteria,Actinobacteriota,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,12,0,12,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobium,65,0,52,0,13,Only April,Both sites,Only April
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,21,0,17,0,4,Only April,Both sites,Only April
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,121,0,88,4,29,Both months,Both sites,All except April-flight
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthella,172,0,118,0,54,Only April,Both sites,Only April
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Gordonibacter,6,0,6,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Paraeggerthella,9,0,0,0,9,Only April,Only Ground,Only April-Ground
+Bacteria,Actinobacteriota,Rubrobacteria,Rubrobacterales,Rubrobacteriaceae,Rubrobacter,461,101,203,115,42,Both months,Both sites,All sample types
+Bacteria,Actinobacteriota,Thermoleophilia,Gaiellales,Gaiellaceae,Gaiella,4,4,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Parviterribacter,12,0,12,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Armatimonadota,Chthonomonadetes,Chthonomonadales,Chthonomonadaceae,Chthonomonas,9,9,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,19040,5,11168,55,7812,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,468,0,316,0,152,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,122,0,88,0,34,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Dysgonomonas,24,0,7,0,17,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,71,0,71,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,265,0,265,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Sanguibacteroides,9,0,9,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,255,229,0,15,11,Both months,Both sites,All except April-flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,242,69,61,32,80,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,585,0,363,0,222,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,112,4,26,8,74,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_7,634,8,281,6,339,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9,977,3,560,19,395,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae NK3B31 group,36,0,36,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-003,11,11,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,1590,0,766,0,824,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,92,0,59,4,29,Both months,Both sites,All except April-flight
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,2853,0,1604,0,1249,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Chitinophaga,3,0,0,3,0,Only February,Only Ground,Only February-Ground
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Cnuella,32,0,2,3,27,Both months,Both sites,All except April-flight
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Flaviaesturariibacter,4,0,0,4,0,Only February,Only Ground,Only February-Ground
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Segetibacter,3,3,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Terrimonas,2,0,2,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Hymenobacteraceae,Adhaeribacter,36,0,32,4,0,Both months,Both sites,April-Flight and February-Ground
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Hymenobacteraceae,Hymenobacter,368,280,36,22,30,Both months,Both sites,All sample types
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Hymenobacteraceae,Pontibacter,5,5,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Spirosomaceae,Dyadobacter,9,0,9,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,76,61,0,15,0,Only February,Both sites,Only February
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,26,0,0,9,17,Both months,Only Ground,Only Ground
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Chryseobacterium,47,0,0,30,17,Both months,Only Ground,Only Ground
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Cloacibacterium,27,0,4,0,23,Only April,Both sites,Only April
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Empedobacter,11,3,0,8,0,Only February,Both sites,Only February
+Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Sphingobacteriaceae,Arcticibacter,4,0,0,4,0,Only February,Only Ground,Only February-Ground
+Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Sphingobacteriaceae,Mucilaginibacter,6,0,6,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Sphingobacteriaceae,Pedobacter,21,0,13,8,0,Both months,Both sites,April-Flight and February-Ground
+Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,245,6,150,4,85,Both months,Both sites,All sample types
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Chroococcidiopsaceae,Crinalium SAG 22.89,9,0,0,9,0,Only February,Only Ground,Only February-Ground
+Bacteria,Cyanobacteria,Cyanobacteriia,Leptolyngbyales,Leptolyngbyaceae,Leptolyngbya PCC-6306,11,0,0,11,0,Only February,Only Ground,Only February-Ground
+Bacteria,Deinococcota,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,41,6,31,4,0,Both months,Both sites,All except April-flight
+Bacteria,Deinococcota,Deinococci,Deinococcales,Trueperaceae,Truepera,38,0,0,38,0,Only February,Only Ground,Only February-Ground
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,290,0,87,0,203,Only April,Both sites,Only April
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,186,0,96,0,90,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Anaeroplasma,447,0,316,0,131,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Alicyclobacillales,Alicyclobacillaceae,Tumebacillus,9,0,9,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anaerobacillus,3307,524,567,457,1759,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,1980,162,530,213,1075,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,68,0,49,19,0,Both months,Both sites,April-Flight and February-Ground
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,24,24,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Bacilli,Bacillales,Salisediminibacteriaceae,Salipaludibacillus,13,0,13,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Asteroleplasma,166,0,110,0,56,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Catenibacterium,267,0,176,4,87,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Coprobacillus,26,0,26,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelatoclostridium,666,0,410,0,256,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelotrichaceae UCG-003,293,0,214,0,79,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Dielma,38,0,19,0,19,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,198,0,122,0,76,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,428,0,215,0,213,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemania,110,0,110,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,115,0,36,39,40,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,[Clostridium] innocuum group,1043,0,801,0,242,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Abiotrophia,394,330,0,0,64,Both months,Both sites,February-Flight and April-Ground
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,9,9,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,25,0,0,25,0,Only February,Only Ground,Only February-Ground
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Alloiococcus,70,0,0,0,70,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,27,16,7,4,0,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,44,44,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,7214,0,4353,0,2861,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,HT002,62,0,0,0,62,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,112,0,28,0,84,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,945,205,275,85,380,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,451,0,247,0,204,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,113,19,61,0,33,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,222,0,60,0,162,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Weissella,10,0,10,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,491,0,343,0,148,Only April,Both sites,Only April
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,8133,907,3504,269,3453,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,38,0,0,0,38,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Gemellaceae,Gemella,433,213,0,6,214,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Auricoccus-Abyssicoccus,4,0,0,0,4,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Jeotgalicoccus,63,0,0,63,0,Only February,Only Ground,Only February-Ground
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Nosocomiicoccus,6,6,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Salinicoccus,17,0,13,4,0,Both months,Both sites,April-Flight and February-Ground
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,2567,366,658,300,1243,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,100,0,85,3,12,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 1,2050,89,1162,75,724,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 13,114,0,52,0,62,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 2,141,0,141,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 6,5,0,0,5,0,Only February,Only Ground,Only February-Ground
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Proteiniclasticum,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Sarcina,85,0,0,0,85,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,8,8,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostignum,9,0,9,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,257,0,184,0,73,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,871,5,544,0,322,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Cellulosilyticum,562,0,342,5,215,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,356,0,274,0,82,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Dorea,153,0,65,0,88,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Eisenbergiella,40,0,0,0,40,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Epulopiscium,103,0,76,0,27,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Fusicatenibacter,105,0,100,0,5,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066575,20,0,20,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Hungatella,387,0,231,0,156,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,826,0,570,0,256,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,507,0,290,0,217,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NC2004 group,20,0,0,0,20,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae ND3007 group,173,0,132,0,41,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,352,0,202,0,150,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4B4 group,6,0,6,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-001,19,0,0,0,19,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-003,34,0,34,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,141,0,141,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-007,398,0,244,23,131,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,37,0,24,0,13,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Robinsoniella,395,0,196,0,199,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,960,0,517,0,443,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas,40,12,28,0,0,Both months,Only Flight,Only Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Stomatobaculum,25,0,0,0,25,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tuzzerella,75,0,75,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tyzzerella,9,0,0,0,9,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,UC5-1-2E3,28,0,28,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,582,0,230,0,352,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] hallii group,168,10,91,0,67,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] oxidoreducens group,12,0,12,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ruminantium group,11,0,11,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,34,0,16,0,18,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group,98,0,0,0,98,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gnavus group,484,0,336,0,148,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] torques group,299,0,102,0,197,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,151,0,79,0,72,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus,216,0,166,3,47,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,19,0,19,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,89,0,56,0,33,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,379,0,222,0,157,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,65,0,49,0,16,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,85,0,85,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,806,0,490,0,316,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,89,0,63,0,26,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,117,3,76,0,38,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003,126,0,72,0,54,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,221,4,22,0,195,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-007,10,0,0,0,10,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Anaerofilum,54,0,29,0,25,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,64,0,64,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,CAG-352,12,0,12,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,DTU089,92,0,39,0,53,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,1764,0,957,0,807,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,52,0,18,0,34,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Incertae Sedis,398,0,244,7,147,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,11,0,11,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Pygmaiobacter,104,0,75,0,29,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,534,0,270,7,257,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum,790,0,473,0,317,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,UBA1819,152,0,152,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,380,0,253,0,127,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,6,0,6,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,32,0,32,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Anaerococcus,208,47,22,0,139,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Finegoldia,39,2,0,0,37,Both months,Both sites,February-Flight and April-Ground
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Parvimonas,17,0,7,0,10,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Peptoniphilus,13,13,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Acetoanaerobium,6,6,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Clostridioides,126,0,90,0,36,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Intestinibacter,570,0,406,0,164,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Paraclostridium,197,0,66,0,131,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia,236,0,144,0,92,Only April,Both sites,Only April
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Terrisporobacter,721,25,457,33,206,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,36,0,36,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,448,13,311,28,96,Both months,Both sites,All sample types
+Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Succiniclasticum,67,0,0,0,67,Only April,Only Ground,Only April-Ground
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Megamonas,197,0,154,0,43,Only April,Both sites,Only April
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Selenomonas,10,0,10,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Sporomusaceae,Anaerosporomusa,7,0,7,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Anaeroglobus,29,0,9,0,20,Only April,Both sites,Only April
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,233,14,140,0,79,Both months,Both sites,All except April-flight
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Megasphaera,154,0,118,0,36,Only April,Both sites,Only April
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella,1188,84,678,15,411,Both months,Both sites,All sample types
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,524,0,282,10,232,Both months,Both sites,All except April-flight
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,26,0,0,13,13,Both months,Only Ground,Only Ground
+Bacteria,Myxococcota,Myxococcia,Myxococcales,Myxococcaceae,P3OB-42,24,0,0,24,0,Only February,Only Ground,Only February-Ground
+Bacteria,Myxococcota,Polyangia,Polyangiales,Polyangiaceae,Pajaroellobacter,2,0,0,0,2,Only April,Only Ground,Only April-Ground
+Bacteria,Patescibacteria,Saccharimonadia,Saccharimonadales,Saccharimonadaceae,TM7a,6,0,0,6,0,Only February,Only Ground,Only February-Ground
+Bacteria,Planctomycetota,Phycisphaerae,Tepidisphaerales,Tepidisphaeraceae,Tepidisphaera,21,21,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Planctomycetota,Planctomycetes,Gemmatales,Gemmataceae,Gemmata,21,0,0,6,15,Both months,Only Ground,Only Ground
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Tundrisphaera,35,35,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Roseimaritima,2,0,0,2,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Acidiphilium,61,61,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Craurococcus-Caldovatus,55,33,0,22,0,Only February,Both sites,Only February
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Endobacter,6,0,0,6,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas,68,56,12,0,0,Both months,Only Flight,Only Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Azospirillales,Azospirillaceae,Skermanella,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,75,41,17,9,8,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,3,0,0,3,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Alphaproteobacteria,Kiloniellales,Kiloniellaceae,Tistlia,9,0,9,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,338,157,38,139,4,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Methylobacterium-Methylorubrum,28423,9952,4331,10017,4123,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Microvirga,25,0,25,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Pedomicrobium,10,10,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,776,177,178,23,398,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Mesorhizobium,3,0,3,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ochrobactrum,1624,238,263,302,821,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Phyllobacterium,134,55,0,49,30,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium,470,224,60,170,16,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Falsirhodobacter,13,13,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,49,16,0,33,0,Only February,Both sites,Only February
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,16,9,7,0,0,Both months,Only Flight,Only Flight
+Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,10,0,0,10,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,20,9,0,11,0,Only February,Both sites,Only February
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Porphyrobacter,1717,511,423,504,279,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sandarakinorhabdus,13,0,0,0,13,Only April,Only Ground,Only April-Ground
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,1496779,505299,217149,543384,230947,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,78,78,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes,8,0,0,0,8,Only April,Only Ground,Only April-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,16,11,0,2,3,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Lautropia,15,15,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,118,0,20,5,93,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Aquabacterium,311,29,46,16,220,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,10392,1706,2017,1223,5446,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Pseudorhodoferax,42,0,0,0,42,Only April,Only Ground,Only April-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,396,137,68,144,47,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Hydrogenophilaceae,Hydrogenophilus,5,0,0,5,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Neisseria,140,100,5,23,12,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Nitrosomonadaceae,DSSD61,2,0,0,2,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,63,7,0,0,56,Both months,Both sites,February-Flight and April-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,111,0,37,29,45,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Rhodocyclaceae,Zoogloea,2,0,2,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,266,0,130,0,136,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,1780,6,978,0,796,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Cardiobacteriaceae,Cardiobacterium,13,0,0,10,3,Both months,Only Ground,Only Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Aeromonadaceae,Aeromonas,12,0,12,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Alteromonadaceae,Alishewanella,3,0,0,3,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,73,0,56,0,17,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia-Shigella,4895,0,2899,0,1996,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,254,0,156,0,98,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,18,0,0,18,0,Only February,Only Ground,Only February-Ground
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium,36,0,36,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,51,0,33,0,18,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Aggregatibacter,13,13,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Haemophilus,717,105,271,29,312,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Succinivibrionaceae,Succinatimonas,224,0,199,0,25,Only April,Both sites,Only April
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Succinivibrionaceae,Succinivibrionaceae UCG-001,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,4396,2196,0,2200,0,Only February,Both sites,Only February
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Alcanivoracaceae1,Alcanivorax,29,16,0,13,0,Only February,Both sites,Only February
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Halomonadaceae,Halomonas,19,5,10,0,4,Both months,Both sites,All except April-flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Halomonadaceae,Kushneria,7,7,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,1178,117,453,186,422,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Enhydrobacter,264,77,28,36,123,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,252,38,41,108,65,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Solimonadaceae,Nevskia,1878,746,182,795,155,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,8,0,8,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,255,117,35,32,71,Both months,Both sites,All sample types
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,6,0,6,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,Victivallis,44,0,31,0,13,Only April,Both sites,Only April
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Chthoniobacterales,Chthoniobacteraceae,Candidatus Udaeobacter,19,0,19,0,0,Only April,Only Flight,Only April-Flight
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Chthoniobacterales,Chthoniobacteraceae,Chthoniobacter,18,18,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Chthoniobacterales,Chthoniobacteraceae,LD29,6,6,0,0,0,Only February,Only Flight,Only February-Flight
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,671,0,320,0,351,Only April,Both sites,Only April
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Rubritaleaceae,Luteolibacter,7,0,0,7,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Arthoniomycetes,Lichenostigmatales,Phaeococcomycetaceae,Phaeococcomyces,1226,48,0,1178,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Botryosphaeriales,Botryosphaeriaceae,Dothiorella,91,91,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Botryosphaeriales,Botryosphaeriaceae,Neofusicoccum,2,0,0,2,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Botryosphaeriales,Phyllostictaceae,Phyllosticta,52,0,0,52,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Capnodiales_fam_Incertae_sedis,Arthrocatena,19,19,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,212747,88192,37590,73977,12988,Both months,Both sites,All sample types
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Rachicladosporium,135,113,0,22,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Toxicocladosporium,2295,0,0,2295,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Verrucocladosporium,2556,304,0,1964,288,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Dissoconiaceae,Uwebraunia,1156,1156,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Capnodiales,Neodevriesiaceae,Neodevriesia,801,686,0,115,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Coniosporiales,Coniosporiaceae,Coniosporium,2860,275,1255,1330,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Dothideales,Dothioraceae,Dothiora,90,90,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Dothideales,Saccotheciaceae,Aureobasidium,6845,2668,566,3171,440,Both months,Both sites,All sample types
+Fungi,Ascomycota,Dothideomycetes,Dothideomycetes_ord_Incertae_sedis,Dothideomycetes_fam_Incertae_sedis,Radulidium,669,669,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Extremaceae,Incertomyces,1014,1014,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Extremaceae,Petrophila,2448,2254,141,53,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Acrodontium,60,0,0,60,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Geastrumia,192,0,192,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,23,0,0,23,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Xenosonderhenia,407,407,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Zasmidium,14,0,0,14,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Catenulostroma,701,400,180,121,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Constantinomyces,213,0,0,213,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Hortaea,395,0,0,0,395,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Neocatenulostroma,256,256,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Salinomyces,135,135,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Myriangiales,Elsinoaceae,Elsinoe,1318,0,0,1318,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Myriangiales,Endosporiaceae,Endosporium,301,0,0,301,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Myriangiales,Myriangiales_fam_Incertae_sedis,Myriangiales_gen_Incertae_sedis,1111,1111,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Myriangiales,Myriangiales_fam_Incertae_sedis,Phaeosclera,564,443,121,0,0,Both months,Only Flight,Only Flight
+Fungi,Ascomycota,Dothideomycetes,Neocelosporiales,Neocelosporiaceae,Neocelosporium,523,0,0,523,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Patellariales,Patellariaceae,Banhegyia,101,0,0,101,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Amorosiaceae,Angustimassarina,859,204,0,655,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Coniothyriaceae,Foliophoma,1012,1012,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Cucurbitariaceae,Neocucurbitaria,393,0,0,393,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Ascochyta,31,31,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Epicoccum,1214,0,0,1214,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Neoascochyta,131,0,131,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymosphaeriaceae,Neokalmusia,59,0,0,59,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymosphaeriaceae,Paraphaeosphaeria,263,0,0,263,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymosphaeriaceae,Pseudopithomyces,410,79,0,331,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymosphaeriaceae,Spegazzinia,140,0,0,140,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymosphaeriaceae,Tremateia,68,0,0,68,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Leptosphaeriaceae,Plenodomus,844,844,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Lophiostomataceae,Lophiostoma,469,90,190,189,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Lophiostomataceae,Neovaginatispora,308,259,0,49,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Lophiotremataceae,Lophiotrema,288,288,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Macrodiplodiopsidaceae,Macrodiplodiopsis,64,0,0,64,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Parapyrenochaetaceae,Parapyrenochaeta,615,0,0,615,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Periconiaceae,Periconia,2352,626,0,1019,707,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Didymocyrtis,917,0,0,917,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Leptospora,257,107,0,150,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Neosetophoma,1780,1780,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Ophiosphaerella,102,102,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Phaeosphaeria,4446,2992,0,1451,3,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Septoriella,61,0,0,61,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,113023,90066,3403,19551,3,Both months,Both sites,All sample types
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Pyrenophora,7941,5658,0,2283,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Stemphylium,2738,1205,678,855,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pleosporales_fam_Incertae_sedis,Chalastospora,114,114,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pseudomassarinaceae,Pseudomassarina,47,47,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Sporormiaceae,Preussia,1184,1184,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Pleosporales,Torulaceae,Torula,1129,772,264,93,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Dothideomycetes,Superstratomycetales,Superstratomycetaceae,Superstratomyces,8,8,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Tubeufiales,Tubeufiaceae,Zaanenomyces,198,0,198,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Dothideomycetes,Valsariales,Valsariaceae,Valsaria,246,0,246,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Dothideomycetes,Venturiales,Sympoventuriaceae,Bellamyces,187,187,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Dothideomycetes,Venturiales,Venturiaceae,Tothia,46,46,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Chaetothyriales_fam_Incertae_sedis,Anthracina,25,25,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Chaetothyriales_fam_Incertae_sedis,Neophaeococcomyces,1194,1194,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,216,0,0,216,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Exophiala,1344496,385958,338075,362078,258385,Both months,Both sites,All sample types
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Rhinocladiella,33,33,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Trichomeriaceae,Knufia,2561,1768,144,649,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Trichomeriaceae,Lithohypha,148,0,148,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Eurotiomycetes,Chaetothyriales,Trichomeriaceae,Trichomerium,163,0,0,163,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,6668,641,3296,2731,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Paecilomyces,3179,38,1758,181,1202,Both months,Both sites,All sample types
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,41634,15691,3598,18253,4092,Both months,Both sites,All sample types
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Talaromyces,161,0,0,8,153,Both months,Only Ground,Only Ground
+Fungi,Ascomycota,Eurotiomycetes,Phaeomoniellales,Phaeomoniellaceae,Phaeomoniellaceae_gen_Incertae_sedis,212,212,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Eurotiomycetes,Verrucariales,Verrucariaceae,Verrucaria,349,0,349,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Parmeliaceae,Evernia,104,104,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Scoliciosporaceae,Scoliciosporum,1187,1187,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Leotiomycetes,Erysiphales,Erysiphaceae,Erysiphe,287,0,0,287,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Leotiomycetes,Helotiales,Calloriaceae,Calloriaceae_gen_Incertae_sedis,8,0,0,8,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Leotiomycetes,Helotiales,Helotiaceae,Hymenoscyphus,916,0,0,0,916,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Leotiomycetes,Helotiales,Helotiales_fam_Incertae_sedis,Cryptocline,314,314,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Leotiomycetes,Helotiales,Hyaloscyphaceae,Incrucipulum,227,117,110,0,0,Both months,Only Flight,Only Flight
+Fungi,Ascomycota,Leotiomycetes,Helotiales,Hyaloscyphaceae,Lachnum,1149,1149,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,191,0,191,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Leotiomycetes,Thelebolales,Thelebolaceae,Thelebolus,245,0,245,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Orbiliomycetes,Orbiliales,Orbiliaceae,Orbilia,218,218,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Pezizomycetes,Pezizales,Discinaceae,Discinaceae_gen_Incertae_sedis,19,19,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Pezizomycetes,Pezizales,Pezizaceae,Peziza,3,0,0,3,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,157,0,50,107,0,Both months,Both sites,April-Flight and February-Ground
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Meyerozyma,55,55,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,26,12,0,0,14,Both months,Both sites,February-Flight and April-Ground
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetales_fam_Incertae_sedis,Candida,290,37,0,162,91,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Sordariomycetes,Calosphaeriales,Calosphaeriaceae,Jattaea,73,0,0,73,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Diaporthales,Gnomoniaceae,Gnomoniopsis,23,0,0,23,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Diaporthales,Valsaceae,Valsa,59,0,0,59,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Glomerellales,Glomerellaceae,Colletotrichum,22,0,0,22,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Brunneomyces,506,506,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Bionectriaceae,Clonostachys,157,0,0,157,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Bionectriaceae,Stanjemonium,922,709,213,0,0,Both months,Only Flight,Only Flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Bionectriaceae,Valsonectria,44,0,44,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Clavicipitaceae,Claviceps,311,62,0,249,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Beauveria,2062,1266,0,796,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,62,62,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Hypocreales_fam_Incertae_sedis,Acremonium,260,173,32,55,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Hypocreales_fam_Incertae_sedis,Sarocladium,14055,2765,3487,1618,6185,Both months,Both sites,All sample types
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,7177,839,469,5869,0,Both months,Both sites,All except April-flight
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Niessliaceae,Niesslia,25,0,0,25,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Ophiocordycipitaceae,Purpureocillium,187,0,0,0,187,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Sordariomycetes,Hypocreales,Stachybotryaceae,Striaticonidium,458,0,0,0,458,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Sordariomycetes,Melanosporales,Melanosporaceae,Melanospora,9,0,0,0,9,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Sordariomycetes,Myrmecridiales,Myrmecridiaceae,Myrmecridium,763,0,0,55,708,Both months,Only Ground,Only Ground
+Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Chaetomium,139,139,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Melanocarpus,1101,0,1101,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Ascomycota,Sordariomycetes,Sordariales,Lasiosphaeriaceae,Apodus,621,0,0,621,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Togniniales,Togniniaceae,Phaeoacremonium,101,0,0,0,101,Only April,Only Ground,Only April-Ground
+Fungi,Ascomycota,Sordariomycetes,Trichosphaeriales,Trichosphaeriaceae,Nigrospora,1666,0,148,1518,0,Both months,Both sites,April-Flight and February-Ground
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Apiosporaceae,Apiospora,2158,52,0,2106,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Diatrypaceae,Cryptovalsa,21,0,0,21,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Diatrypaceae,Eutypa,87,0,0,87,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Diatrypaceae,Eutypella,306,306,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Graphostromataceae,Biscogniauxia,29,0,0,29,0,Only February,Only Ground,Only February-Ground
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Hypoxylaceae,Hypoxylon,19699,9857,0,9842,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Xylariaceae,Anthostomella,9208,9208,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Sordariomycetes,Xylariales,Xylariales_fam_Incertae_sedis,Hansfordia,450,450,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Ascomycota,Taphrinomycetes,Taphrinales,Taphrinaceae,Taphrina,2460,1719,0,741,0,Only February,Both sites,Only February
+Fungi,Ascomycota,Taphrinomycetes,Taphrinales,Taphrinaceae,Taphrinaceae_gen_Incertae_sedis,159,0,0,159,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,Agaricus,247,0,0,247,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Crepidotaceae,Crepidotus,93,49,0,44,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Cystostereaceae,Cystostereaceae_gen_Incertae_sedis,840,840,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Entolomataceae,Entoloma,47,0,47,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Hygrophoraceae,Arrhenia,156,0,0,156,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Lyophyllaceae,Lyophyllum,523,0,0,523,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Mycenaceae,Mycena,1955,739,899,317,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Omphalotaceae,Gymnopus,746,389,131,226,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Omphalotaceae,Lentinula,2837,0,900,0,1937,Only April,Both sites,Only April
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Omphalotaceae,Rhodocollybia,351,245,0,106,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Physalacriaceae,Cylindrobasidium,274,0,0,274,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Physalacriaceae,Flammulina,574,0,0,574,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Physalacriaceae,Strobilurus,5,0,5,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Pleurotaceae,Pleurotus,216,152,0,64,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Psathyrellaceae,Coprinellus,66,66,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Psathyrellaceae,Coprinopsis,202,108,94,0,0,Both months,Only Flight,Only Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Psathyrellaceae,Psathyrella,72,0,0,72,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Pterulaceae,Coronicium,13,13,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Radulomycetaceae,Radulomyces,1073,1004,69,0,0,Both months,Only Flight,Only Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Strophariaceae,Pholiota,915,152,0,763,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Baeospora,39,39,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Clitocybe,66,0,0,66,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Hemimycena,15,0,0,15,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Leucopaxillus,169,0,0,169,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Resupinatus,157,157,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Tricholoma,46,46,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Tricholosporum,195,0,0,195,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Tricholomataceae,Xeromphalina,102,0,102,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Agaricales,Typhulaceae,Typhula,6,0,0,6,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Agaricomycetes_ord_Incertae_sedis,Xenasmataceae,Xenasmatella,454,454,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Amylocorticiales,Amylocorticiaceae,Amyloxenasma,334,0,334,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Atheliales,Atheliaceae,Athelia,88,0,12,0,76,Only April,Both sites,Only April
+Fungi,Basidiomycota,Agaricomycetes,Atheliales,Tylosporaceae,Amphinema,378,378,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Atheliales,Tylosporaceae,Tylosporaceae_gen_Incertae_sedis,14,0,0,14,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Auriculariales,Exidiaceae,Exidiopsis,608,608,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Auriculariales,Hyaloriaceae,Myxarium,79,0,0,79,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Cantharellales,Botryobasidiaceae,Botryobasidium,188,72,0,116,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Cantharellales,Ceratobasidiaceae,Ceratobasidiaceae_gen_Incertae_sedis,183,0,183,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Cantharellales,Hydnaceae,Burgoa,4509,0,280,4229,0,Both months,Both sites,April-Flight and February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Cantharellales,Hydnaceae,Sistotrema,1741,773,0,390,578,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Corticiales,Corticiaceae,Limonomyces,14,14,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Corticiales,Punctulariaceae,Punctularia,109,0,0,109,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Corticiales,Vuilleminiaceae,Vuilleminia,1330,678,478,174,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Gloeophyllales,Gloeophyllaceae,Neolentinus,3077,0,3077,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Gomphales,Lentariaceae,Kavinia,57,0,0,57,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Fuscoporia,382,382,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Hymenochaetaceae_gen_Incertae_sedis,77,0,77,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Hymenochaete,1507,0,431,138,938,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Phellinus,387,85,0,302,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetales_fam_Incertae_sedis,Hymenochaetales_gen_Incertae_sedis,19,19,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetales_fam_Incertae_sedis,Trichaptum,53,26,0,27,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Rickenellaceae,Peniophorella,487,178,0,309,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Schizoporaceae,Fasciodontia,220,0,0,220,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Schizoporaceae,Hyphodontia,356,312,0,44,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Schizoporaceae,Lyomyces,46,46,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Schizoporaceae,Xylodon,2822,2472,80,270,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Tubulicrinaceae,Tubulicrinis,180,0,0,180,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Cerrenaceae,Cerrena,1925,0,293,276,1356,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Dacryobolaceae,Dacryobolus,179,179,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Fomitopsidaceae,Amyloporia,969,0,0,75,894,Both months,Only Ground,Only Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Fomitopsidaceae,Fibroporia,277,277,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Fomitopsidaceae,Postia,690,0,0,0,690,Only April,Only Ground,Only April-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Fomitopsidaceae,Sarcoporia,67,0,0,67,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Incrustoporiaceae,Skeletocutis,399,0,0,55,344,Both months,Only Ground,Only Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Irpicaceae,Meruliopsis,1283,143,0,1140,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Irpicaceae,Trametopsis,226,0,0,226,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Meripilaceae,Rigidoporus,591,0,0,96,495,Both months,Only Ground,Only Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Meruliaceae,Mycoacia,56,0,0,56,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Meruliaceae,Phlebia,718,61,32,625,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Phanerochaetaceae,Bjerkandera,4452,0,200,1111,3141,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Phanerochaetaceae,Phaeophlebiopsis,59,0,0,59,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Phanerochaetaceae,Phanerochaete,125,0,0,125,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Phanerochaetaceae,Phlebiopsis,13,13,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Phanerochaetaceae,Terana,26,0,0,26,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Coriolopsis,245,0,245,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Daedaleopsis,2385,0,263,684,1438,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Lenzites,905,0,108,321,476,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Perenniporia,55,55,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Trametes,15912,611,476,8062,6763,Both months,Both sites,All sample types
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporales_fam_Incertae_sedis,Crustoderma,120,120,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporales_fam_Incertae_sedis,Pycnoporellus,674,0,0,674,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Steccherinaceae,Cabalodontia,116,0,116,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Steccherinaceae,Fibricium,85,0,0,85,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Polyporales,Steccherinaceae,Steccherinum,346,346,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricomycetes,Russulales,Peniophoraceae,Metulodontia,6,0,0,6,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Russulales,Peniophoraceae,Peniophora,3262,1674,0,1588,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricomycetes,Russulales,Russulaceae,Russula,38,0,0,38,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Russulales,Russulales_fam_Incertae_sedis,Confertobasidium,383,0,0,383,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Agaricomycetes,Russulales,Stereaceae,Stereum,542,371,0,156,15,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Agaricomycetes,Trechisporales,Hydnodontaceae,Trechispora,1120,894,0,226,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Agaricostilbaceae,Pseudobensingtonia,73,73,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Agaricostilbaceae,Sterigmatomyces,9509,56,0,0,9453,Both months,Both sites,February-Flight and April-Ground
+Fungi,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Chionosphaeraceae,Kurtzmanomyces,270,75,0,195,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Kondoaceae,Kondoa,683,212,471,0,0,Both months,Only Flight,Only Flight
+Fungi,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,712,712,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Cystobasidiomycetes,Cystobasidiomycetes_ord_Incertae_sedis,Buckleyzymaceae,Buckleyzyma,1280,659,0,115,506,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Cystobasidiomycetes,Cystobasidiomycetes_ord_Incertae_sedis,Symmetrosporaceae,Symmetrospora,3436,1620,296,1520,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Cystobasidiomycetes,Erythrobasidiales,Erythrobasidiaceae,Erythrobasidium,693,0,0,693,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Exobasidiomycetes,Entylomatales,Entylomataceae,Tilletiopsis,10,10,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Exobasidiomycetes,Exobasidiales,Exobasidiaceae,Exobasidium,2,2,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Exobasidiomycetes,Microstromatales,Microstromatales_fam_Incertae_sedis,Pseudomicrostroma,4,4,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Exobasidiomycetes,Microstromatales,Quambalariaceae,Quambalaria,44,0,0,44,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Exobasidiomycetes,Robbauerales,Robbaueraceae,Robbauera,156,0,0,156,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,101155,19070,17097,18325,46663,Both months,Both sites,All sample types
+Fungi,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malasseziaceae_gen_Incertae_sedis,1172,463,666,43,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Microbotryomycetes,Kriegeriales,Kriegeriaceae,Phenoliferia,408,0,408,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Microbotryomycetes,Microbotryomycetes_ord_Incertae_sedis,Chrysozymaceae,Chrysozyma,49,0,0,49,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Microbotryomycetes,Microbotryomycetes_ord_Incertae_sedis,Microbotryomycetes_fam_Incertae_sedis,Curvibasidium,786,0,0,0,786,Only April,Only Ground,Only April-Ground
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodosporidiobolus,654,52,0,602,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,1557,0,569,988,0,Both months,Both sites,April-Flight and February-Ground
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Sporobolomyces,438,234,0,204,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Cystofilobasidiaceae_gen_Incertae_sedis,42,42,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Cystofilobasidium,201,0,0,201,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Mrakiaceae,Itersonilia,96,0,0,93,3,Both months,Only Ground,Only Ground
+Fungi,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Mrakiaceae,Mrakia,1148,0,0,130,1018,Both months,Only Ground,Only Ground
+Fungi,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Mrakiaceae,Mrakiaceae_gen_Incertae_sedis,80,80,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,6378,2948,38,2614,778,Both months,Both sites,All sample types
+Fungi,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Naganishia,1865,0,276,1589,0,Both months,Both sites,April-Flight and February-Ground
+Fungi,Basidiomycota,Tremellomycetes,Filobasidiales,Piskurozymaceae,Piskurozyma,249,249,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleraceae,Fonsecazyma,716,716,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleraceae,Genolevuria,2621,2621,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Dioszegia,1334,616,292,426,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Hannaella,1449,1312,7,130,0,Both months,Both sites,All except April-flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,138,39,60,15,24,Both months,Both sites,All sample types
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,325,0,325,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Rhynchogastremataceae,Papiliotrema,69,46,0,23,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,599,0,0,599,0,Only February,Only Ground,Only February-Ground
+Fungi,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,65,0,65,0,0,Only April,Only Flight,Only April-Flight
+Fungi,Basidiomycota,Ustilaginomycetes,Ustilaginales,Ustilaginaceae,Anthracocystis,172,172,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Ustilaginomycetes,Ustilaginales,Ustilaginaceae,Moesziomyces,52,52,0,0,0,Only February,Only Flight,Only February-Flight
+Fungi,Basidiomycota,Ustilaginomycetes,Ustilaginales,Ustilaginaceae,Ustilago,232,143,0,89,0,Only February,Both sites,Only February
+Fungi,Basidiomycota,Wallemiomycetes,Wallemiales,Wallemiaceae,Wallemia,987,0,785,202,0,Both months,Both sites,April-Flight and February-Ground
