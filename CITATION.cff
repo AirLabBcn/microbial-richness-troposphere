@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rodó"
+  given-names: "Xavier"
+  orcid: "https://orcid.org/0000-0003-4843-6180"
+- family-names: "Pozdniakova"
+  given-names: "Sofya"
+  orcid: "https://orcid.org/0000-0001-5849-1787"
+- family-names: "Borràs"
+  given-names: "Sílvia"
+  orcid: "https://orcid.org/0000-0002-0331-0720"
+- family-names: "Fontal"
+  given-names: "Alejandro"
+  orcid: "https://orcid.org/0000-0003-1138-2158"
+title: "Microbial richness and air chemistry in aerosols above the PBL confirm 2,000-km long-distance transport of potential human pathogens"
+version: 1.0.0
+doi: https://zenodo.org/doi/10.5281/zenodo.13270671
+date-released: 2024-08-08
+url: "https://github.com/airlabbcn/microbial-richness-troposphere"

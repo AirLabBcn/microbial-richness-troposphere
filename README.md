@@ -2,6 +2,9 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![python](https://img.shields.io/badge/python-3.10-orange?logo=Python&logoColor=white)
+[![DOI](https://zenodo.org/badge/655711107.svg)](https://zenodo.org/doi/10.5281/zenodo.13270671)
+
+
 
 ![Figure 3 from the manuscript](photos/readme_image.png)
 
